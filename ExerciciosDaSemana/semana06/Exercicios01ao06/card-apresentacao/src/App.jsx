@@ -4,11 +4,11 @@ import Card from './components/Card'
 function App() {
 
   const usuario = { 
-    nome: "Bruno Costa", 
-    idade: 24, 
-    foto: "https://avatars.githubusercontent.com/u/62752426?v=4", 
-    github: "github.com/Bruno-Costa-fig", 
-    linkedin: "https://www.linkedin.com/in/bruno-costa-b9b3141a2/" }
+    nome: "Fábio H R Souza", 
+    idade: 43, 
+    foto: "https://avatars.githubusercontent.com/u/92132323?s=400&u=ee2fe1703475d8bbaf9fab62cc3e826465e79090&v=4", 
+    github: "https://github.com/FabioHRSouza", 
+    linkedin: "https://www.linkedin.com/in/fabiohrsouza" }
 
   return (
     <div>
